@@ -1,6 +1,6 @@
 ---
-title: "Teaching assistantship"
-collection: help in assignment formulation and 
+title: "Teaching assistantship in Microwave remote sensing"
+collection: help in assignment formulation and grading
 type: "UG/PG course"
 permalink: /teaching/2022-microwave
 venue: "IIT Gandhinagar, Earth Sciences"
