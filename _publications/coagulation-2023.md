@@ -1,4 +1,3 @@
-
 ---
 title: "Aerosol Coagulation in Urban Environments"
 collection: publications
