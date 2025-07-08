@@ -1,11 +1,15 @@
+
 ---
 title: "Aerosol Coagulation in Urban Environments"
 collection: publications
-permalink: /publication/coagulation-2023/
+category: manuscripts
+permalink: /publication/coagulation-2023
 excerpt: "We explore coagulation dynamics of fine aerosols using a discrete numerical approach."
 date: 2023-12-01
 venue: "Atmospheric Environment"
-doi: "10.1016/j.atmosenv.2023.123456"
+paperurl: "https://doi.org/10.1016/j.atmosenv.2023.123456"
+citation: 'Thakur, A. K. (2023). <i>Aerosol Coagulation in Urban Environments</i>. Atmospheric Environment.'
+layout: publication
 ---
 
 We explore coagulation dynamics of fine aerosols...
