@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Alok Kumar Thakur / Ph.D. Scholar @ IIT Gandhinagar"
 title_separator          : "-"
 name                     : &name "Alok Kumar Thakur"
 description              : &description "Ph.D. Scholar @ IIT Gandhinagar"
@@ -25,7 +25,7 @@ author:
   avatar           : "PXL_20250410_145612356.jpg"
   name             : "Alok Kumar Thakur"
   pronouns         : # example: "he/him"  
-  bio              : "Ph.D. Scholar, Aerosols, Low-cost sensors, CFD | IIT Gandhinagar"
+  bio              : "Low-cost sensors, Physics based deep learning, Computational fluid dynamics, Toxicity of PM"
   location         : "India"
   employer         : "IIT Gandhinagar"
   uri              : # URL
