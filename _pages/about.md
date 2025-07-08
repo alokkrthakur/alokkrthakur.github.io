@@ -9,7 +9,7 @@ redirect_from:
 
 Low-cost sensors (LCS) showed strong correlations for PM₁ and PM₂.₅ but weaker performance for coarser fractions, with sub-300 nm particles contributing up to 75 ± 18% of total scattering intensity (Isc). This highlights size misclassification due to LCS limitations in detecting ultrafine particles, leading to underestimation compared to reference instruments.
 
-![Scattering](/images/scattering.jpg)
+![Scattering](/images/Scattering.jpg)
 
 Research area
 ======
