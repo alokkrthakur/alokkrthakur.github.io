@@ -1,5 +1,5 @@
 ---
-title: "Indoor air quality in urban India: current status, research gap, and the way forward"
+title: 'Indoor air quality in urban India: current status, research gap, and the way forward'
 collection: publications
 category: manuscripts
 permalink: [Paper Link](https://pubs.acs.org/doi/full/10.1021/acs.estlett.3c00636)
