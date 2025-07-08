@@ -1,0 +1,20 @@
+---
+title: "Teaching assistantship"
+collection: help in assignment formulation and 
+type: "UG/PG course"
+permalink: /teaching/2022-microwave
+venue: "IIT Gandhinagar, Earth Sciences"
+date: 2022-08-01
+location: "IIT Gandhinagar"
+---
+
+Assisted Prof. P C Pandey in assignment formulation and grading.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
