@@ -4,7 +4,7 @@ collection: help in assignment formulation and grading
 type: "UG/PG course"
 permalink: /teaching/2022-microwave
 venue: "IIT Gandhinagar, Earth Sciences"
-date: 2022-08-01
+date: 2022-01-01
 location: "IIT Gandhinagar"
 ---
 
