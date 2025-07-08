@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Measurement, modeling, and mitigation of air pollutants in urban built environment, IIT Gandhinagar, Nov 2025 (expected)
+* M.Tech. in Green materials as filler for permeable reactive barrier, IIT Gandhinagar, 2020
+* B.Tech. in Mechanical Engineering, Uttarakhand Technical University, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan-April 2023: 
+  * Anant National University
+  * Duties includes: Teaching Air Quality in Built Environment to Undegraduates
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July-Dec 2020: Junior research fellow
+  * IIT Gandhinagar - GBRC (Gujarat Biotechnology Research Center)
+  * Duties included: Detection of SARS-COV-2 RNA in wastewater
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-2018: Subject Matter Expert
+  * Acadecraft Pvt. Ltd.
+  * Duties included: Solving engineering questions, drafting numerical solutions
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Working with Arduino, ESP, NodeMCU, PM and Gas sensors
+* Physics-informed deep learning
+* Computational Fluid Dynamics using OpenFOAM
 
 Publications
 ======
