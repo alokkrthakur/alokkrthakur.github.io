@@ -23,9 +23,11 @@ We developed and deployed low-cost monitors to study indoor air pollutant dynami
 
 ![Characterization](/images/charac.jpg)
 
-Physics-informed deep learning
+Predicting Spatiotemporal Concentrations in a Multizonal Residential Apartment Using Physics-Informed Deep Learning Approach
 ======
-Work under review
+Most IAQ models assume well-mixed conditions, which might not be valid in larger volumes. This study demonstrates the potential of physics-informed deep learning for predicting spatiotemporal concentrations from single-point measurements.
+
+![Characterization](/images/GA.jpg)
 
 CFD of built environment using OpenFOAM
 ======
