@@ -11,48 +11,51 @@ layout: single
 
 Colorado State University
 
-## Research
+## Current Research
 
-My research focuses on understanding how aerosols are generated, transformed, transported, and mitigated across indoor and outdoor environments. My current work examines particulate emissions from wildland–urban interface (WUI) fires, with particular emphasis on structural-material combustion and aerosol chemical composition.
+My current research focuses on understanding particulate emissions from wildland–urban interface (WUI) fires, including the combustion of structural materials and their contribution to atmospheric particulate pollution.
 
-<div class="notice--primary">
-<strong>Research interests:</strong> WUI fires · Structural-material emissions · Aerosol chemistry · Indoor air quality · Environmental measurements · Computational modeling · Machine learning
-</div>
+## Previous Research
 
-## Featured Research
+### Insights into low-cost PM sensors using size-resolved scattering intensity
 
-### 🔥 Wildland–Urban Interface Fires
+Low-cost sensors (LCS) showed strong correlations for PM₁ and PM₂.₅ but weaker performance for coarser fractions, with sub-300 nm particles contributing up to 75 ± 18% of total scattering intensity (Isc). This highlights size misclassification due to LCS limitations in detecting ultrafine particles, leading to underestimation compared to reference instruments.
 
-Characterizing particulate emissions from the combustion of vegetation and structural materials during WUI fires.
+![Scattering](/images/Scattering.jpg)
 
-[Explore WUI Fire Research](/research/wui-fires/){: .btn .btn--primary}
+### Research area
 
-### 🏠 Structural Materials
+Measurement, modeling, mitigation of air pollutants in urban built environment
 
-Investigating PM₂.₅ mass and chemical composition from residential construction materials and mixed-fuel assemblies.
+![Combined](/images/combined.jpg)
 
-[Explore Structural Materials Research](/research/structural-materials/){: .btn}
+### Development of IoT monitors and characterization of urban built environment
 
-### 🌫️ Indoor Air Quality
+We developed and deployed low-cost monitors to study indoor air pollutant dynamics in a multizonal residential apartment. The study captured spatio-temporal PM variations, identified key sources and transport patterns, and evaluated mitigation strategies. Sub-micron particles dominated during cooking and incense use.
 
-Measurement, modeling, and mitigation of particulate pollution in buildings and the urban built environment.
+![Characterization](/images/charac.jpg)
 
-[Explore Indoor Air Quality Research](/research/indoor-air-quality/){: .btn}
+### Predicting Spatiotemporal Concentrations in a Multizonal Residential Apartment Using Physics-Informed Deep Learning Approach
 
-### 🧪 Aerosol Science
+Most IAQ models assume well-mixed conditions, which might not be valid in larger volumes. This study demonstrates the potential of physics-informed deep learning for predicting spatiotemporal concentrations from single-point measurements.
 
-Aerosol measurement, characterization, source identification, and atmospheric implications.
+![GA](/images/GA.jpg)
 
-[Explore Aerosol Science Research](/research/aerosol-science/){: .btn}
+### CFD of built environment using OpenFOAM
 
-## Selected Work
+Work under review
 
-Use this section for 3–4 major projects, publications, or research highlights. Each item can later include an image, short description, publication links, datasets, and code.
+![CFD](/images/cfd.jpg)
 
-## Recent Updates
+## Explore My Research
 
-Add your latest publications, conference presentations, awards, research milestones, or other announcements here.
+The original research content and images above are preserved. The new site structure provides dedicated pages for each research direction:
+
+- [WUI Fires](/research/wui-fires/)
+- [Structural Materials](/research/structural-materials/)
+- [Indoor Air Quality](/research/indoor-air-quality/)
+- [Aerosol Science](/research/aerosol-science/)
 
 ## Explore
 
-[About me](/about/) · [Research](/research/) · [Publications](/publications/) · [Projects](/projects/) · [Talks & Conferences](/talks/) · [Teaching & Mentoring](/teaching/) · [Outreach](/outreach/) · [CV](/cv/) · [Contact](/contact/)
+[About](/about/) · [Research](/research/) · [Publications](/publications/) · [Projects](/projects/) · [Talks & Conferences](/talks/) · [Teaching & Mentoring](/teaching/) · [Outreach](/outreach/) · [CV](/cv/) · [Contact](/contact/)
