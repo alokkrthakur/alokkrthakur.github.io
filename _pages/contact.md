@@ -10,7 +10,7 @@ I welcome conversations about research collaborations, student mentoring, scient
 
 ## Email
 
-**Email:** alok.thakur@colostate.edu
+**Email:** Add your preferred professional email here.
 
 ## Academic Profiles
 
